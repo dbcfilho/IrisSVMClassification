@@ -1,4 +1,4 @@
-# Análise e Classificação de Flores Iris com Support Vector Machine (SVM)
+# Análise de Dados de Flores Iris com SVM
 
 ## Descrição do Projeto
 
